@@ -11,7 +11,7 @@ export default function CommandsTable() {
         getCommands();
 
         
-        for(let i =0;i<)
+        
 
         
         return () => mounted = false;
