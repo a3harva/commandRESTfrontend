@@ -108,3 +108,8 @@ code {
   from { width: 0 }
   to { width: 100% }
 }
+.disabled-paragraph{
+  pointer-events: none;
+  text-decoration-color: aliceblue;
+  background-color: rgb(212, 212, 212);
+}
