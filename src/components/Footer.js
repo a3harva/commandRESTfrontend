@@ -74,9 +74,7 @@ export default function Footer() {
           </section>
         </div>
 
-        <div
-          className="text-center  p-3"
-        >
+        <div className="text-center  p-3">
           © 2023 Copyright:
           <a className="link" href="https://a3harva.github.io/">
             Atharva Joshi
